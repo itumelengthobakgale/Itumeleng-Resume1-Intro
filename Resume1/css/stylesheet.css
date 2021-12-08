@@ -1,23 +1,46 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
   font-size:110%;
-  background-color:#FCF7F8;
+  background-color:silver;
 }
 
 header {
   text-align: center;
   background-color: #343330;
   color: #FCF7F8;
+  margin-left: 2% ;
 
 }
 #menu {background-color:teal;
-width:fit-content;color: honeydew;}
+width:fit-content;
+color: honeydew;
+border: #343330 solid 3px ;
+margin-left: 2% ;}
 
-#education {background-color: silver;}
-#experiences { background-color: teal;}
-#skillss { background-color:silver;}
-.icons {width: 3rem}
+#headshot { width: 30%;
+height:15%;
+border:teal solid 5px;
+border-radius: 50%;}
+
+#education2 {background-color: silver;
+margin-left: 2% ;
+border:teal solid 3px ;}
+
+#experiences { background-color: teal;
+  margin-left: 2%;
+  border:#343330 solid 3px ;}
+
+#skillss { background-color:silver;
+  margin-left: 2%;
+  border:teal solid 3px ;}
+
+.icons {width: 3rem;
+margin: 1rem;}
+
 footer {
   background-color: #343330;
-  text-align: center; color: honeydew;
+  text-align: center; 
+  color: honeydew;
+  margin-left: 2% ;
+  border:teal solid 3px ;
 }
