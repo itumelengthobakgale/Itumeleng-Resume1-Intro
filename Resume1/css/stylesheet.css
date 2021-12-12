@@ -12,29 +12,29 @@ header {
    ;
 
 }
-#menu {background-color:teal;
-width:fit-content;
+#menu {background-color: teal;
+width:180px;
 height: 100% ;
 color:black;
 border: #343330 solid 3px ;
 margin-left: 2% ;}
 
-#headshot { width: 30%;
-height:15%;
+#headshot { width: 15%;
+height:5%;
 border:teal solid 5px;
 border-radius: 50%;}
 
 #education2 {background-color: silver;
 margin-left: 2% ;
-border:teal solid 3px ;}
+;}
 
 #experiences { background-color: teal;
   margin-left: 2%;
-  border:#343330 solid 3px ;}
+  }
 
 #skillss { background-color:silver;
   margin-left: 2%;
-  border:teal solid 3px ;}
+  }
 
 .icons {width: 3rem;
 margin: 1rem;}
@@ -47,5 +47,5 @@ footer {
   background-color: #343330;
   text-align: center; 
   color: honeydew;
-  border:teal solid 3px ;
+  
 }
